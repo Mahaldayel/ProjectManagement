@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project Management</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+
+    <string-array name="resource_type_array">
+        <item>Human</item>
+        <item>Hardware</item>
+        <item>Software</item>
+    </string-array>
+
+</resources>

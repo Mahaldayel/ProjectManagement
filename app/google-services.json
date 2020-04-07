@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "553763782018",
+    "firebase_url": "https://project-management-4bd34.firebaseio.com",
+    "project_id": "project-management-4bd34",
+    "storage_bucket": "project-management-4bd34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553763782018:android:e1729e02db56f609",
+        "android_client_info": {
+          "package_name": "com.example.hanan.projectmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553763782018-ahn8s8kcbopf0cnb25p6j09pjgadd2tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB888GlJ1bR3WduulZLgvTJw-Zz_DV-ZlE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
